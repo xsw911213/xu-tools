@@ -1,0 +1,22 @@
+{
+  "name": "xu-tools",
+  "version": "1.0.0",
+  "description": "工作工具箱",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xsw911213/xu-tools.git"
+  },
+  "keywords": [
+    "工具箱"
+  ],
+  "author": "xushaowei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xsw911213/xu-tools/issues"
+  },
+  "homepage": "https://github.com/xsw911213/xu-tools#readme"
+}
