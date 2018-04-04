@@ -1,7 +1,7 @@
 {
   "name": "xu-tools",
   "version": "1.0.0",
-  "description": "工作工具箱",
+  "description": "my tools",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/xsw911213/xu-tools.git"
   },
   "keywords": [
-    "工具箱"
+    "tools"
   ],
   "author": "xushaowei",
   "license": "ISC",
